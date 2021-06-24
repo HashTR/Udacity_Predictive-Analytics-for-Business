@@ -7,7 +7,7 @@ Predicting profit that will be expected to earn from sending out a catalog to ne
 ## [Project2: (Create an Analytical Dataset)](https://github.com/HashTR/Udacity_Predictive-Analytics-for-Business/tree/main/Project2_Create-an-Analytical-Dataset)
 A pet store chain would like to open a new store, analysis was performed to recommend the city for the newest store.
 
-## Project3: (Predicting Default Risk)
+## [Project3: (Predicting Default Risk)](https://github.com/HashTR/Udacity_Predictive-Analytics-for-Business/tree/main/Project3_Predicting-Default-Risk)
 Classification Models were applied and compared to classify new customers of a bank on whether they can be approved for a loan or not.
 
 ## Project4: (A/B Test a New Menu Launch)
