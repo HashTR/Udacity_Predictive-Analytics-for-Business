@@ -8,7 +8,7 @@ Predicting profit that will be expected to earn from sending out a catalog to ne
 A pet store chain would like to open a new store, analysis was performed to recommend the city for the newest store.
 
 ## [Project3: (Predicting Default Risk)](https://github.com/HashTR/Udacity_Predictive-Analytics-for-Business/tree/main/Project3_Predicting-Default-Risk)
-Classification Models were applied and compared to classify new customers of a bank on whether they can be approved for a loan or not.
+Logistic Regression, Decision Tree, Random Forest, and Boosted Model were applied and compared to classify new customers of a bank on whether they can be approved for a loan or not.
 
 ## [Project4: (A/B Test a New Menu Launch)](https://github.com/HashTR/Udacity_Predictive-Analytics-for-Business/tree/main/Project4_%20New-Menu-Launch-AB-Test)
 A/B test techniques were used to decide whether a coffee restaurant should launch a new menu or not based on marketing cost and expected sales.
