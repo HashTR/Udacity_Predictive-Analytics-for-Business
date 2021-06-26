@@ -14,7 +14,7 @@ Logistic Regression, Decision Tree, Random Forest, and Boosted Model were applie
 A/B test techniques were used to decide whether a coffee restaurant should launch a new menu or not based on marketing cost and expected sales.
 
 ## [Project5: (Combining Predictive Techniques)](https://github.com/HashTR/Udacity_Predictive-Analytics-for-Business/tree/main/Project5_Combining-Predictive-Techniques)
-A company currently has 85 grocery stores and is planning to open 10 new stores. analysis was made to get decisions using three stages:
+A company currently has 85 grocery stores and is planning to open 10 new stores. analysis was made to get decisions using three consecutive stages:
 • Segment current stores by K-means
 • Predicting new stores segment
 • Forecast sales using time series
