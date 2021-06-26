@@ -15,7 +15,7 @@ A/B test techniques were used to decide whether a coffee restaurant should launc
 
 ## [Project5: (Combining Predictive Techniques)](https://github.com/HashTR/Udacity_Predictive-Analytics-for-Business/tree/main/Project5_Combining-Predictive-Techniques)
 A company currently has 85 grocery stores and is planning to open 10 new stores. analysis was made to get decisions using three consecutive stages:
-1. Segment current stores by K-means
+1. Segmenting current stores by K-means
 2. Predicting new stores segment
-3. Forecast sales using time series
+3. Forecasting sales using time series analysis
 
